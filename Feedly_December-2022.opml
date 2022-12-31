@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Larry subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Cybersecurity" title="Cybersecurity">
+            <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com"/>
+            <outline type="rss" text="eForensics" title="eForensics" xmlUrl="https://eforensicsmag.com/feed/" htmlUrl="https://eforensicsmag.com"/>
+            <outline type="rss" text="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" title="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
+            <outline type="rss" text="DataBreachToday.com RSS Syndication" title="DataBreachToday.com RSS Syndication" xmlUrl="http://www.databreachtoday.com/rssFeeds.php?type=main" htmlUrl="https://www.databreachtoday.com/rssFeeds.php?type=main"/>
+            <outline type="rss" text="The CyberWire" title="The CyberWire" xmlUrl="https://thecyberwire.com/feeds/rss.xml" htmlUrl="https://thecyberwire.com/index.html"/>
+            <outline type="rss" text="Security Boulevard" title="Security Boulevard" xmlUrl="http://www.securitybloggersnetwork.com/feed/" htmlUrl="https://securityboulevard.com/"/>
+            <outline type="rss" text="Cloud Security Alliance" title="Cloud Security Alliance" xmlUrl="https://cloudsecurityalliance.org/feed/" htmlUrl="https://cloudsecurityalliance.org/feed/"/>
+            <outline type="rss" text="Packet Storm Security" title="Packet Storm Security" xmlUrl="http://packetstormsecurity.org/headlines.xml" htmlUrl="https://packetstormsecurity.com/"/>
+            <outline type="rss" text="Threatpost" title="Threatpost" xmlUrl="http://threatpost.com/feed" htmlUrl="https://threatpost.com"/>
+            <outline type="rss" text="Cyber Defense Magazine" title="Cyber Defense Magazine" xmlUrl="http://www.cyberdefensemagazine.com/feed/" htmlUrl="https://www.cyberdefensemagazine.com/"/>
+            <outline type="rss" text="Blog Feed - Center for Internet Security" title="Blog Feed - Center for Internet Security" xmlUrl="https://www.cisecurity.org/feed/?post_type=blog" htmlUrl="https://www.cisecurity.org/feed/blog"/>
+            <outline type="rss" text="Cybersecurity Insights" title="Cybersecurity Insights" xmlUrl="https://www.nist.gov/blogs/cybersecurity-insights/rss.xml" htmlUrl="https://www.nist.gov/"/>
+            <outline type="rss" text="Infosecurity" title="Infosecurity" xmlUrl="http://www.infosecurity-magazine.com/rss/news/" htmlUrl="https://www.infosecurity-magazine.com/news/"/>
+            <outline type="rss" text="CISA Bulletins" title="CISA Bulletins" xmlUrl="http://www.us-cert.gov/channels/bulletins.rdf" htmlUrl="https://us-cert.cisa.gov/"/>
+            <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
+            <outline type="rss" text="security – Ars Technica" title="security – Ars Technica" xmlUrl="https://arstechnica.com/tag/security/feed/" htmlUrl="https://arstechnica.com"/>
+            <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="https://www.darkreading.com"/>
+            <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="http://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+            <outline type="rss" text="CPO Magazine" title="CPO Magazine" xmlUrl="https://www.cpomagazine.com/feed/" htmlUrl="https://www.cpomagazine.com/"/>
+            <outline type="rss" text="CSO Online" title="CSO Online" xmlUrl="http://www.csoonline.com/index.rss" htmlUrl="https://www.csoonline.com"/>
+            <outline type="rss" text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" xmlUrl="http://iscxml.sans.org/rssfeed.xml" htmlUrl="https://isc.sans.edu"/>
+            <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com"/>
+            <outline type="rss" text="Information Security Buzz" title="Information Security Buzz" xmlUrl="http://www.informationsecuritybuzz.com/feed/" htmlUrl="https://informationsecuritybuzz.com"/>
+            <outline type="rss" text="SecurityWeek" title="SecurityWeek" xmlUrl="http://feeds.feedburner.com/Securityweek" htmlUrl="https://www.securityweek.com"/>
+            <outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="http://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com"/>
+            <outline type="rss" text="ComputerWeekly.com" title="ComputerWeekly.com" xmlUrl="http://www.computerweekly.com/rss/All-Computer-Weekly-content.xml" htmlUrl="https://www.computerweekly.com"/>
+            <outline type="rss" text="News Archives - AskCyberSecurity.com" title="News Archives - AskCyberSecurity.com" xmlUrl="https://www.askcybersecurity.com/category/news/feed/" htmlUrl="https://www.askcybersecurity.com/category/news/"/>
+            <outline type="rss" text="The Daily Swig | Cybersecurity news and views" title="The Daily Swig | Cybersecurity news and views" xmlUrl="https://portswigger.net/daily-swig/rss" htmlUrl="https://portswigger.net/daily-swig"/>
+            <outline type="rss" text="Help Net Security" title="Help Net Security" xmlUrl="http://feeds2.feedburner.com/HelpNetSecurity" htmlUrl="https://www.helpnetsecurity.com/"/>
+            <outline type="rss" text="Security Weekly" title="Security Weekly" xmlUrl="http://feeds.feedburner.com/pauldotcom/XBIC" htmlUrl="https://securityweekly.com"/>
+        </outline>
+    </body>
+</opml>
